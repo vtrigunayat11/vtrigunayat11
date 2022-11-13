@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @vtrigunayat11
+- 👋 Hi, I’m Vaibhav Trigunayat
 - 🌱 I’m currently learning C and Web Development
 - 📫 Reach me on insta-vaibhavtrigunayat_11
